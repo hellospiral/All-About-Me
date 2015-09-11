@@ -12,7 +12,7 @@
 
 ### GitHub Pages URL:
 
-[hellospiral.github.io/all-about-me](hellospiral.github.io/all-about-me)
+[http://hellospiral.github.io/All-About-Me](http://hellospiral.github.io/All-About-Me)
 
 ###Legal
 
